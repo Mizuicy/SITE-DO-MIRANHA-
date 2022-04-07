@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    background-image: linear-gradient(black, rgb(90, 81, 81));
+}
+.box{
+    margin:0;
+    background-color: #000000;
+    width: 100%;
+    position: fixed;
+    opacity: 0.95;
+}
+.box-cabecalho{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 30% 0 10%;
+}
+.box-titulo{
+    color: #c3073f;
+}
+.lista-ol{
+    display: flex;
+    list-style-type: none;
+    color: white;
+
+}
+.lista-li{
+    padding: 15px 30px 15px 30px;
+}
+.sessao_img{
+    width: 100%;
+}
+main{
+    margin: 5% 10% 0% 10%;
+}
+.sessao-conteudo-2{
+    display: flex;
+}
+.sessao_img-2{
+    justify-content:center;
+    width: 50%;
+}
+.box-nav-2{
+    margin: 50px 0px 0px 100px;
+    text-align: center;
+}
+.o-h2{
+    color: rgb(184, 16, 86);
+
+
+}
+.o-pp{
+    color: white;
+    
+}
+.o-main-2{
+    margin: 5% 10% 0% 10%;
+}
+.sessao-conteudo-3{
+
+    display: flex;
+    flex-direction:row-reverse;
+}
+.sessao_img-3{
+    justify-content:center;
+    width: 50%;
+}
+.box-nav-3{
+    margin: 50px 100px 0px 100px;
+    text-align: center;
+}
+.oo-h2{
+    color: rgb(184, 16, 86);
+}
+.oo-pp{
+    color: white;
+
+}
+h3{
+    color: aliceblue;
+    text-align: center;
+}
+.sessao-conteudo-4{
+    display: flex;
+    justify-content: space-around;
+}
+
+.ooo-pp{
+    color: aliceblue;
+    margin: 0 10%;
+    text-align: center;
+
+}
